@@ -12,4 +12,5 @@
 
 
 
-SetTheory-notebooks(.ipnb)-- Follow the link https://mybinder.org/v2/gh/anand-ulle/DMS/master
+SetTheory-notebooks(.ipnb)-- .. image:: https://notebooks.gesis.org/binder/badge_logo.svg
+ :target: https://notebooks.gesis.org/binder/v2/gh/anand-ulle/DMS/master

@@ -12,5 +12,5 @@
 
 
 
-SetTheory-notebooks(.ipnb)-- .. image:: https://notebooks.gesis.org/binder/badge_logo.svg
- :target: https://notebooks.gesis.org/binder/v2/gh/anand-ulle/DMS/master
+[![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/anand-ulle/DMS/master)
+
